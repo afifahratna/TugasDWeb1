@@ -1,8 +1,0 @@
-tittle bar = nama di awal
-meta = web biar responsif terhadap aplikasi
-link rel ref = nghubungin file yg 
-script = 
-bg light = warna
-fixed-top = 
-button = posisi buka di hp/tab
-a class href = 
